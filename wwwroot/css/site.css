@@ -3,13 +3,13 @@ for details on configuring this project to bundle and minify static web assets. 
 
 a.navbar-brand {
   white-space: normal;
-  text-align: right;
+  text-align: left;
   word-break: break-all;
 }
 
 /* Provide sufficient contrast against white background */
 a {
-  color: #0366d6;
+  color: aqua;
 }
 
 .btn-primary {
